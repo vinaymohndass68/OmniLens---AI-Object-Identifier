@@ -1,0 +1,7 @@
+{
+  "name": "OmniLens - AI Object Identifier",
+  "description": "Capture or upload images to identify everything in sight. Get detailed descriptions, scientific names for living things, and origins for non-living objects using Gemini AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
